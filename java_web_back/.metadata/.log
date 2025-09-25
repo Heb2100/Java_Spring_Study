@@ -1132,3 +1132,6 @@ java.lang.InterruptedException
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2025-09-25 14:47:47.370
 !MESSAGE Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-09-26 08:12:16.916
+!MESSAGE Classpath changed for project: ps

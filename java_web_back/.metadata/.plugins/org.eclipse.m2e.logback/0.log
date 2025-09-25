@@ -611,3 +611,11 @@
 2025-09-25 14:46:12,839 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\이현복\homework\back_db_ws_04_c\src\main\resources
 2025-09-25 14:46:12,840 [Worker-165: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
 2025-09-25 14:46:12,841 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\이현복\homework\back_db_ws_04_c\src\test\resources
+2025-09-25 14:47:06,372 [Worker-164: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-25 14:47:06,373 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\이현복\homework\back_db_ws_04_c\src\main\resources
+2025-09-25 14:47:06,374 [Worker-164: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-25 14:47:06,375 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\이현복\homework\back_db_ws_04_c\src\test\resources
+2025-09-25 14:47:47,367 [Worker-168: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-25 14:47:47,368 [Worker-168: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\이현복\homework\back_db_ws_04_c\src\main\resources
+2025-09-25 14:47:47,370 [Worker-168: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-09-25 14:47:47,370 [Worker-168: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\이현복\homework\back_db_ws_04_c\src\test\resources
